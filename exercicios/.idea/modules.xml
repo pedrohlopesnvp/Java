@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BancoDigital/BancoDigital.iml" filepath="$PROJECT_DIR$/BancoDigital/BancoDigital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dados/dados.iml" filepath="$PROJECT_DIR$/dados/dados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios.iml" filepath="$PROJECT_DIR$/exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fluxo/fluxo.iml" filepath="$PROJECT_DIR$/fluxo/fluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo/poo.iml" filepath="$PROJECT_DIR$/poo/poo.iml" />
+    </modules>
+  </component>
+</project>
